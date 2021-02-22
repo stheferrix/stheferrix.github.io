@@ -13,8 +13,8 @@ author: stheferrix
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  About Me: "aboutme"
 
 # --- Logo --- #
 
@@ -143,7 +143,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "disqus_Pd3DIefkNM"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
@@ -157,11 +157,11 @@ footer-link-col: "#404040"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
-utterances:
-repository: "stheferrix/stheferrix.github.io"
-issue-term: title
-theme: github-light
-label: blog-comments
+#utterances:
+#repository: "stheferrix/stheferrix.github.io"
+#issue-term: title
+#theme: github-light
+#label: blog-comments
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
