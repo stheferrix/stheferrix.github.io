@@ -37,6 +37,7 @@ round-avatar: true
 social-network-links:
   email: "stheferri@gmail.com"
   github: stheferrix
+  linkedin: sthefaniaferri
 #  facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -65,10 +66,10 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 
 # Select which social network share links to show in posts
-#share-links-active:
-#  twitter: true
-#  facebook: true
-#  linkedin: true
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
@@ -159,8 +160,8 @@ footer-link-col: "#404040"
 utterances:
 repository: "stheferrix/stheferrix.github.io"
 issue-term: title
-label: blog-comments
 theme: github-light
+label: blog-comments
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
